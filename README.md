@@ -15,8 +15,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: K ADHITHYA 
-RegisterNumber: 2305002001
+Developed by: SELVA KANI R
+RegisterNumber: 2305002020
 
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier,plot_tree
